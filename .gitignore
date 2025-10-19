@@ -1,0 +1,16 @@
+# editor / ide
+.windsurfrules
+.windsurf
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# os
+.DS_Store
+Thumbs.db
+
+# backup files
+*.bak
+*.tmp
