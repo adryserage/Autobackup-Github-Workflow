@@ -10,6 +10,7 @@ complete version-and-release workflow templates for different tech stacks.
 - **go/** - go / modules projects
 - **java/** - java / maven projects
 - **dotnet/** - c# / .net projects
+- **php/** - php / composer projects
 
 ## usage
 
@@ -47,6 +48,7 @@ each tech stack reads version from different files:
 | go | git tags (fallback to 0.0.0) |
 | java | `pom.xml` |
 | .net | `*.csproj` |
+| php | `composer.json` |
 
 ## customization
 
